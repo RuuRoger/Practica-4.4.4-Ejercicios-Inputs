@@ -1,0 +1,25 @@
+¡Por supuesto! Aquí tienes dos ejercicios originales y sencillos que puedes implementar en Unity utilizando el sistema de Input, enfocándote en el movimiento mediante transformaciones.
+
+Ejercicio 1: Movimiento de la Esfera con el Ratón
+En este ejercicio, controlarás una esfera utilizando el ratón. La esfera se moverá en la posición del puntero del ratón cuando se pulse el botón izquierdo.
+
+Pasos:
+
+1. Crea una esfera en la escena.
+
+2. Añade un script a la esfera para manejar el movimiento.
+
+3. Utiliza el sistema de Input de Unity para detectar el movimiento del ratón y el clic del botón izquierdo.
+
+Ejercicio 2: Teletransportación del Jugador con el Teclado
+En este ejercicio, el jugador (representado por un cubo) se teletransportará a una posición aleatoria dentro de la escena cuando se presione una tecla específica (por ejemplo, la tecla "T").
+
+Pasos:
+
+1. Crea un cubo en la escena que representará al jugador.
+
+2. Añade un script al cubo para manejar la teletransportación.
+
+3. Utiliza el sistema de Input de Unity para detectar la pulsación de la tecla "T".
+
+Script de ejemplo:
